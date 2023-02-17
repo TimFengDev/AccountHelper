@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AccountHelper</string>
+    <string name="title_home">首頁</string>
+    <string name="title_record">紀錄</string>
+    <string name="title_list">清單</string>
+    <string name="title_setting">設定</string>
+</resources>
