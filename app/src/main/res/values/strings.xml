@@ -4,4 +4,6 @@
     <string name="title_record">紀錄</string>
     <string name="title_list">清單</string>
     <string name="title_setting">設定</string>
+    <string name="temp_default">預設</string>
+    <string name="home_coast_title">今日花費</string>
 </resources>
